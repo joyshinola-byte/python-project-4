@@ -60,17 +60,21 @@ more accurate results.
 
                                                      output
 
+
+BAR CHART
   
 <img width="868" height="648" alt="Screenshot 2026-03-30 103800" src="https://github.com/user-attachments/assets/36cf2f80-9ac0-4e6b-ab3d-3246820158f6" />
 
 
+PIE CHART
 
 <img width="595" height="641" alt="Screenshot 2026-03-30 103823" src="https://github.com/user-attachments/assets/9f492355-8ae8-4b4f-b5a2-ecf83b7773f9" />
 
-
+HISTOGRAM
 
 <img width="920" height="656" alt="Screenshot 2026-03-30 103837" src="https://github.com/user-attachments/assets/59baeffb-833e-461c-ab1e-6de4e0dd0b64" />
 
+SCATTER PLOT
 
 <img width="878" height="655" alt="Screenshot 2026-03-30 103847" src="https://github.com/user-attachments/assets/2ac865b3-f672-43d3-b998-6e3cdb46631a" />
 
